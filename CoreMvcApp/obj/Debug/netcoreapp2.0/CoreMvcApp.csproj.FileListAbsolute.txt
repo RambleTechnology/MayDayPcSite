@@ -1,0 +1,12 @@
+e:\Code\VSCode\CoreMVC\CoreMvcApp\bin\Debug\netcoreapp2.0\app.db
+e:\Code\VSCode\CoreMVC\CoreMvcApp\bin\Debug\netcoreapp2.0\CoreMvcApp.deps.json
+e:\Code\VSCode\CoreMVC\CoreMvcApp\bin\Debug\netcoreapp2.0\CoreMvcApp.runtimeconfig.json
+e:\Code\VSCode\CoreMVC\CoreMvcApp\bin\Debug\netcoreapp2.0\CoreMvcApp.runtimeconfig.dev.json
+e:\Code\VSCode\CoreMVC\CoreMvcApp\bin\Debug\netcoreapp2.0\CoreMvcApp.dll
+e:\Code\VSCode\CoreMVC\CoreMvcApp\bin\Debug\netcoreapp2.0\CoreMvcApp.pdb
+e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.csproj.CoreCompileInputs.cache
+e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.AssemblyInfoInputs.cache
+e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.AssemblyInfo.cs
+e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.dll
+e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.pdb
