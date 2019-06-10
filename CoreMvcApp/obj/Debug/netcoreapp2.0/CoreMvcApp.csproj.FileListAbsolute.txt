@@ -10,3 +10,4 @@ e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.AssemblyInf
 e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.AssemblyInfo.cs
 e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.dll
 e:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.pdb
+E:\Code\VSCode\CoreMVC\CoreMvcApp\obj\Debug\netcoreapp2.0\CoreMvcApp.csprojResolveAssemblyReference.cache
